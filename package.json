@@ -1,0 +1,39 @@
+{
+  "name": "@Well-Revolution/prosemirror-schema",
+  "version": "1.0.0",
+  "description": "Schema setup for using prosemirror in chatplait. Based on 👉 https://github.com/ProseMirror/prosemirror-example-setup/",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/well-revolution/prosemirror-schema.git"
+  },
+  "files": [
+    "src/*"
+  ],
+  "author": "<support@plait.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/well-revolution/prosemirror-schema/issues"
+  },
+  "homepage": "https://github.com/well-revolution/prosemirror-schema#readme",
+  "dependencies": {
+    "markdown-it-sup": "^1.0.0",
+    "prosemirror-commands": "^1.1.4",
+    "prosemirror-dropcursor": "^1.3.2",
+    "prosemirror-gapcursor": "^1.1.5",
+    "prosemirror-history": "^1.1.3",
+    "prosemirror-inputrules": "^1.1.3",
+    "prosemirror-keymap": "^1.1.4",
+    "prosemirror-markdown": "1.5.1",
+    "prosemirror-menu": "^1.1.4",
+    "prosemirror-model": "^1.1.0",
+    "prosemirror-schema-list": "^1.1.4",
+    "prosemirror-state": "^1.3.3",
+    "prosemirror-tables": "^1.3.0",
+    "prosemirror-utils": "^0.9.6",
+    "prosemirror-view": "^1.17.2"
+  }
+}
