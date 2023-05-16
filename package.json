@@ -1,5 +1,5 @@
 {
-  "name": "@Well-Revolution/prosemirror-schema",
+  "name": "@well-revolution/prosemirror-schema",
   "version": "1.0.0",
   "description": "Schema setup for using prosemirror in chatplait. Based on 👉 https://github.com/ProseMirror/prosemirror-example-setup/",
   "main": "src/index.js",
