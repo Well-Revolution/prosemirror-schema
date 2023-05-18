@@ -1,11 +1,8 @@
 {
   "name": "@well-revolution/prosemirror-schema",
-  "version": "1.0.0",
-  "description": "Schema setup for using prosemirror in chatplait. Based on 👉 https://github.com/ProseMirror/prosemirror-example-setup/",
+  "version": "1.0.1",
+  "description": "Schema setup for using prosemirror in plait chat. Based on 👉 https://github.com/ProseMirror/prosemirror-example-setup/",
   "main": "src/index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/well-revolution/prosemirror-schema.git"
